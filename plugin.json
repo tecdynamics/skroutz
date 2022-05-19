@@ -1,0 +1,9 @@
+{
+    "name": "Skroutz Feeder",
+    "namespace": "Tec\\Skroutz\\",
+    "provider": "Tec\\Skroutz\\Providers\\SkroutzServiceProvider",
+    "author": "Tec Dynamics Technologies",
+    "url": "https://tecdynamics.co.uk",
+    "version": "1.1",
+    "description": "Manage Skroutz XML Feed"
+}
